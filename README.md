@@ -9,9 +9,9 @@ All the model weights can be seen in weight_and_model/
 
 All the submitted csv can be seen in submission_csv/
 ## Three models
-1. cnn_model
-2. cnn_model2
-3. cnn_model3 
+1. cnn_model (99.2%)
+2. cnn_model2 (99.5%)
+3. cnn_model3 (99.7%)
 
 Detailed model implementation can be seen in mnist_kaggle_train_and_test.py
 ## Training hyper-parameters
